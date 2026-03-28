@@ -1,0 +1,5 @@
+{
+  "name": "SymptomCheck India",
+  "description": "A minimal, mobile-first disease prediction app localized for India, supporting multiple Indian languages and voice interaction.",
+  "requestFramePermissions": ["microphone"]
+}
